@@ -1,0 +1,17 @@
+{
+  "name": "state-management",
+  "version": "1.0.0",
+  "description": "this is a practice code of state management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "state_management"
+  ],
+  "author": "ali",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
